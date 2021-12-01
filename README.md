@@ -11,7 +11,7 @@ number chosen with negative or positive sign. For example TWENTY-TWO gives
 Develop a program that given a number in letters allows you to cross the table displaying the positions letter by letter and the final result.
 Carry out at least 3 simulations by varying the dimensions of the square.
 
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 Lettura Numerica
 Questo è la prima parte di un progetto sviluppato in C durante il mio primo anno universitario. La seconda parte è definita dal problema "Gestione Magazzino".
