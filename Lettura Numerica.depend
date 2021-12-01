@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1579459462 source:c:\users\utente\desktop\nuova cartella (2)\lettura numerica\lettura numerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579458105 source:c:\users\utente\desktop\nuova cartella (2)\lettura numerica\lettura numerica\funzioni.c
+
+1580288755 source:c:\users\utente\desktop\programmazione 1\progetto programmazione orale\lettura numerica\funzioni.c
+
+1580288081 source:c:\users\utente\desktop\programmazione 1\progetto programmazione orale\lettura numerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funzioni.h"
+
+1580288451 c:\users\utente\desktop\programmazione 1\progetto programmazione orale\lettura numerica\funzioni.h
+
+1580288755 source:c:\users\utente\desktop\progetto programmazione orale\lettura numerica\funzioni.c
+
+1580288081 source:c:\users\utente\desktop\progetto programmazione orale\lettura numerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funzioni.h"
+
+1580288451 c:\users\utente\desktop\progetto programmazione orale\lettura numerica\funzioni.h
+
+1580546618 source:c:\users\utente\desktop\relazione_calcopietro_francesco\calcopietro francesco - c\calcopietro francesco - lettura numerica\funzioni.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1580288081 source:c:\users\utente\desktop\relazione_calcopietro_francesco\calcopietro francesco - c\calcopietro francesco - lettura numerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funzioni.h"
+
+1581160955 c:\users\utente\desktop\relazione_calcopietro_francesco\calcopietro francesco - c\calcopietro francesco - lettura numerica\funzioni.h
+
