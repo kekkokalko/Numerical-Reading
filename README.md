@@ -1,6 +1,8 @@
 # Numerical-Reading
 This is the first part of my project implemented in C during my first academic year. The second part is "Warehouse Management".
 
+![Immagine 2021-12-05 110900](https://user-images.githubusercontent.com/94131849/144742229-11ba6178-30ea-4bc5-9c0a-8f16239e144a.png)
+
 Trace of the problem:
 We want to implement a program for simulating the reading game
 numerical. You choose any number in the table in the figure. By spelling the name in
@@ -15,6 +17,8 @@ Carry out at least 3 simulations by varying the dimensions of the square.
 
 Lettura Numerica
 Questo è la prima parte di un progetto sviluppato in C durante il mio primo anno universitario. La seconda parte è definita dal problema "Gestione Magazzino".
+
+![Immagine 2021-12-05 110900](https://user-images.githubusercontent.com/94131849/144742229-11ba6178-30ea-4bc5-9c0a-8f16239e144a.png)
 
 Traccia del problema:
 Si vuole implementare un programma per la simulazione del gioco della lettura
